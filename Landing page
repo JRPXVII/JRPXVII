@@ -1,59 +1,68 @@
 <html>
 
-  <head>
-    <meta name:"description" content="names">
-    <title>Jonie Pangan</title>
-  </head>
+      <head>
 
-  <body style="background-color:#3b5998">
-    <p style="color:#FFA07A;font-size: 30;font-family:Century Gothic; text-align:center">Jonie M. Pangan Jr.</p>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <meta content="text/html">
+          <link rel="stylesheet" href="www">
+          <style type= "text/css">
+          p {text-align:center; color:white; font-family: sans-serif;}
+          h1 {text-align:center; color:#FFA07A; font-family: monospace;;}
+        </style>
 
-<div style="display: flex; justify-content: center;">
+      </head>
 
-      <img src="https://scontent-sea1-1.cdninstagram.com/vp/21e5e2e18a8db4dbeef5f5ea3f46420b/5E0C8E3D/t51.2885-19/s150x150/67416919_649558605543519_8026487019372806144_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com"
-      alt="Jonie"
-      align="center"
-      height="100"
-      width="100" />
-</div>
+      <body style="background-color:#3b5998">
+        <h1>Jonie M. Pangan Jr.</h1>
 
-<div style="display: flex; justify-content: center;">
-      <table cellspacing="10">
-          <tr>
-          <th>
-            <p style="text-align:center; color:white; ">My profile</p>
-          </th>
-          <th>
-            <p style="text-align:center; color:white; ">Experience</p>
-          </th>
-          <th>
-            <p style="text-align:center; color:white; ">Projects</p>
-          </th>
-          </tr>
+    <div style="display: flex; justify-content: center;">
 
-          <tr>
-          <th>
-            <a href="C:\Users\JRPXVII\Documents\www\Profile page" target="_blank">
-              <img src="https://cdn2.iconfinder.com/data/icons/business-management-52/96/Artboard_20-512.png"
-              width="30" height="30" border="0" alt="Profile" />
-          </th>
-          <th>
-            <a href="C:\Users\JRPXVII\Documents\www\experience.html" target="_blank">
-            <img src="https://cdn1.iconfinder.com/data/icons/resume-or-cv-line/32/work_experience-512.png"
-            height="30" width"30" alt="experience">
-          </th>
-          <th>
-            <a href="C:\Users\JRPXVII\Documents\www\experience.html" target="_blank">
-            <img src="https://cdn3.iconfinder.com/data/icons/lifestyle/100/Noun_Project_20Icon_10px_grid-01-512.png"
-            height="30" width"30" alt="Projects"/>
-          </th>
-          </tr>
+          <img src="https://scontent-sea1-1.cdninstagram.com/vp/21e5e2e18a8db4dbeef5f5ea3f46420b/5E0C8E3D/t51.2885-19/s150x150/67416919_649558605543519_8026487019372806144_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com"
+          alt="Jonie"
+          align="center"
+          height="100"
+          width="100" />
+    </div>
 
-      </table>
-</div>
+    <div style="display: flex; justify-content: center;">
+          <table cellspacing="10">
+              <tr>
+              <th>
+                <p>My profile</p>
+              </th>
+              <th>
+                <p>Experience</p>
+              </th>
+              <th>
+                <p>Projects</p>
+              </th>
+              </tr>
 
+              <tr>
+              <th>
+                <a href="C:\Users\JRPXVII\Documents\www\Profile page" target="_blank">
+                  <img src="https://cdn2.iconfinder.com/data/icons/business-management-52/96/Artboard_20-512.png"
+                  width="30" height="30" border="0" alt="Profile" />
+              </th>
+              <th>
+                <a href="C:\Users\JRPXVII\Documents\www\experience.html" target="_blank">
+                <img src="https://cdn1.iconfinder.com/data/icons/resume-or-cv-line/32/work_experience-512.png"
+                height="30" width"30" alt="experience">
+              </th>
+              <th>
+                <a href="C:\Users\JRPXVII\Documents\www\experience.html" target="_blank">
+                <img src="https://cdn3.iconfinder.com/data/icons/lifestyle/100/Noun_Project_20Icon_10px_grid-01-512.png"
+                height="30" width"30" alt="Projects"/>
+              </th>
+              </tr>
 
-  </body>
+          </table>
+    </div>
+
+    <hr/>
+
+      </body>
 
 
 </html>
