@@ -1,0 +1,59 @@
+<html>
+
+  <head>
+    <meta name:"description" content="names">
+    <title>Jonie Pangan</title>
+  </head>
+
+  <body style="background-color:#3b5998">
+    <p style="color:#FFA07A;font-size: 30;font-family:Century Gothic; text-align:center">Jonie M. Pangan Jr.</p>
+
+<div style="display: flex; justify-content: center;">
+
+      <img src="C:\Users\JRPXVII\Documents\www\52646428_380719386058652_3265070529677099008_n.jpg"
+      alt="Jonie"
+      align="center"
+      height="100"
+      width="100" />
+</div>
+
+<div style="display: flex; justify-content: center;">
+      <table cellspacing="10">
+          <tr>
+          <th>
+            <p style="text-align:center; color:white; ">My profile</p>
+          </th>
+          <th>
+            <p style="text-align:center; color:white; ">Experience</p>
+          </th>
+          <th>
+            <p style="text-align:center; color:white; ">Projects</p>
+          </th>
+          </tr>
+
+          <tr>
+          <th>
+            <a href="C:\Users\JRPXVII\Documents\www\Profile page" target="_blank">
+              <img src="C:\Users\JRPXVII\Documents\www\profile.png"
+              width="30" height="30" border="0" alt="Profile" />
+          </th>
+          <th>
+            <a href="C:\Users\JRPXVII\Documents\www\experience.html" target="_blank">
+            <img src="C:\Users\JRPXVII\Documents\www\experience.png"
+            height="30" width"30" alt="experience">
+          </th>
+          <th>
+            <a href="C:\Users\JRPXVII\Documents\www\experience.html" target="_blank">
+            <img src="C:\Users\JRPXVII\Documents\www\project.png"
+            height="30" width"30" alt="Projects"/>
+          </th>
+          </tr>
+
+      </table>
+</div>
+
+
+  </body>
+
+
+</html>
