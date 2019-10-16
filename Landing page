@@ -1,68 +1,83 @@
 <html>
 
-      <head>
+  <head>
 
-          <meta charset="UTF-8">
-          <meta name="viewport" content="width=device-width, initial-scale=1">
-          <meta content="text/html">
-          <link rel="stylesheet" href="www">
-          <style type= "text/css">
-          p {text-align:center; color:000000; font-family: sans-serif;}
-          h1 {text-align:center; color:000000; font-family: monospace;}
-        </style>
+	  <meta charset="UTF-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <meta content="text/html">
+	  <link rel="stylesheet" href="www">
+	  <style type= "text/css">
+	  
+	  img {border:1px solid #021a40;}
+	  table {border: 1px solid black; }
+	  p {text-align:center; color:000000; font-family: sans-serif;}
+	  h1 {text-align:center; color:000000; font-family: monospace;}
+	</style>
 
-      </head>
-
-      <body style="background-color:D3D3D3">
+  </head>
+	  
+	<body style="background-color:D3D3D3">
         <h1>Jonie M. Pangan Jr.</h1>
-
-    <div style="display: flex; justify-content: center;">
-
+		
+			<div style="display: flex; justify-content: center;">
+		
           <img src="C:\Users\JonileP\Downloads\jonie.jpg"
           alt="Jonie"
           align="center"
           height="100"
           width="100" />
-    </div>
+		 
+</div>
+		
+&nbsp
+&nbsp
+&nbsp
 
     <div style="display: flex; justify-content: center;">
-          <table cellspacing="10">
-              <tr>
-              <th>
-                <p>My profile</p>
-              </th>
-              <th>
-                <p>Experience</p>
-              </th>
-              <th>
-                <p>Projects</p>
-              </th>
-              </tr>
+		 
+	<table cellspacing="10">
+		  <thead>
+			  <tr>
+				  <th>
+					<p>My profile</p>
+				  </th>
+				  
+				  <th>
+					<p>Experience</p>
+				  </th>
+				  <th>
+					<p>Projects</p>
+				  </th>
+			  </tr>
+		  </thead>
+		<tbody>
+			<tr>
+			  <td>
+				<a href="C:\Users\JRPXVII\Documents\www\Profile page" target="_blank">
+				  <img src="https://cdn4.iconfinder.com/data/icons/e-commerce-181/512/477_profile__avatar__man_-512.png"
+				  width="30" height="30" border="0" alt="Profile" />
+			  </td>
+			  <td>
+				<a href="C:\Users\JRPXVII\Documents\www\experience.html" target="_blank">
+				<img src="https://cdn1.iconfinder.com/data/icons/resume-or-cv-line/32/work_experience-512.png"
+				height="30" width"30" alt="experience">
+			  </td>
+			  <td>
+				<a href="C:\Users\JRPXVII\Documents\www\experience.html" target="_blank">
+				<img src="https://cdn3.iconfinder.com/data/icons/lifestyle/100/Noun_Project_20Icon_10px_grid-01-512.png"
+				height="30" width"30" alt="Projects"/>
+			  </td>
+		   </tr>
+		</tbody>
+		  
 
-              <tr>
-              <th>
-                <a href="C:\Users\JRPXVII\Documents\www\Profile page" target="_blank">
-                  <img src="https://cdn4.iconfinder.com/data/icons/e-commerce-181/512/477_profile__avatar__man_-512.png"
-                  width="30" height="30" border="0" alt="Profile" />
-              </th>
-              <th>
-                <a href="C:\Users\JRPXVII\Documents\www\experience.html" target="_blank">
-                <img src="https://cdn1.iconfinder.com/data/icons/resume-or-cv-line/32/work_experience-512.png"
-                height="30" width"30" alt="experience">
-              </th>
-              <th>
-                <a href="C:\Users\JRPXVII\Documents\www\experience.html" target="_blank">
-                <img src="https://cdn3.iconfinder.com/data/icons/lifestyle/100/Noun_Project_20Icon_10px_grid-01-512.png"
-                height="30" width"30" alt="Projects"/>
-              </th>
-              </tr>
-
-          </table>
+	 </table>
+			
     </div>
 
-    <hr/>
+<hr/>
 
-      </body>
+     </body>
 
 
 </html>
