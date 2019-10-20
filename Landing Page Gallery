@@ -1,0 +1,45 @@
+<html>
+
+      <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="C:\Users\JRPXVII\Documents\www\LandingPage1Gallery.css">
+        <link rel="stylesheet" href="C:\Users\JRPXVII\Documents\www\ImagesBorder.css">
+      </head>
+
+      <body>
+
+          <div id="gallery">
+            <header>
+              Gallery
+            </header>
+        </div>
+
+          <br/>
+
+        <div class="ImagesBorder">
+
+          <h1 class="img"> Animal 1 </h1>
+          <h1 class="img"> Animal 2 </h1>
+          <h1 class="img"> Animal 3 </h1>
+          <h1 class="img"> Animal 4 </h1>
+          <h1 class="img"> Animal 5 </h1>
+
+        </div>
+
+        <div class="ImagesBorder">
+
+
+              <img class="img"; src="C:\Users\JRPXVII\Documents\www\93394608-pets-welcome-policy.jpg" />
+
+              <img class="img"; src="C:\Users\JRPXVII\Documents\www\93394608-pets-welcome-policy.jpg" />
+
+              <img class="img"; src="C:\Users\JRPXVII\Documents\www\93394608-pets-welcome-policy.jpg" />
+
+              <img class="img"; src="C:\Users\JRPXVII\Documents\www\93394608-pets-welcome-policy.jpg" />
+
+              <img class="img"; src="C:\Users\JRPXVII\Documents\www\93394608-pets-welcome-policy.jpg" />
+        </div>
+
+      </body>
+
+</html>
