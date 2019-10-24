@@ -1,0 +1,102 @@
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="C:\Users\JRPXVII\Documents\www\rust\Jonie.css">
+
+  </head>
+
+  <body>
+
+
+              <img src="http://assets.cloudstaff.com/api/getimage/Jonpa" alt="Jonie" class="rounded-circle center">
+          <br/>
+          <br/>
+                      <h5 class="cacontainer-fluidrd-title"; align="center">Jonie Morales Pangan Jr.</h5>
+                      <p class="card-text bold"; align="center">Technical Support</p>
+          <div class="card text-center">
+                <span>
+                          <a href="facebook.com">
+                            <button type="button" class="btn btn-dark btn btn-primary btn-lg active" role="button" aria-pressed="true">Info</button>
+                          </a>
+                          <a href="facebook.com">
+                            <button type="button" class="btn btn-dark ">Experience</button>
+                          </a>
+                          <a href="facebook.com">
+                            <button type="button" class="btn btn-dark">Resume</button>
+                          <a/>
+                          <a href="facebook.com">
+                            <button type="button" class="btn btn-dark">Contact</button>
+                          <a/>
+                  </span>
+
+<!— Quote —>
+
+                  <div class="shadow p-3 mb-5 bg-white rounded">
+                    <b>Difficult</b> and <b>meaningful</b> will always bring more satisfaction than easy and meaningless.
+                  </div>
+
+          </div>
+
+<!— about me —>
+            <div class="jumbotron jumbotron-fluid">
+                  <div class="container">
+                          <h1 class="display-4">About me</h1>
+                          <p class="lead">
+                             Technical Support in
+                             <a href="facebook.com"/>
+                             <b>Cloudstaff Angeles</b>
+                             </a>
+                             and I have been with BPO industry for 4 years.
+                             I really love playing games, playing guitar and accept challenges in <b>life</b>.
+                          </p>
+                  </div>
+            </div>
+
+<!— Education —>
+
+            <div class="jumbotron jumbotron-fluid">
+                  <div class="container">
+                          <h1 class="display-4">Education</h1>
+                          <p class="lead">
+                             I am undergraduate with the course of Information Technology in
+                             <a href="facebook.com"/>
+                             <b>AMA Olongapo</b>.
+                             <a/>
+                             I stopped studying in college because my father died way back <b>2013</b>.
+                             I started to
+                             <a href="facebook.com"/>
+                             <b>work</b>
+                             <a/>
+                             when I was 18 years old to support my mother and my sister.
+                             We all know that <b>everything happens for a reason</b>.
+                          </p>
+                  </div>
+            </div>
+
+<!— biography —>
+
+            <div class="jumbotron jumbotron-fluid">
+                  <div class="container">
+                            <h1 class="display-4">Biography</h1>
+                            <p class="lead">
+                              I have one sister and she's 22 years old.
+                              My father is a <b>Seaferer</b> for 19 years before he died.
+                              After he's death, we started to stand and learn on our own feet without any help from my Mother.
+                              My mother is an <b>OFW</b> and she is currently working in Dubai,
+                              we grew up happy and have faith with <b>God</b> and I know that's the reason why <b>He</b> is always there to guide us for any trials ahead to our Family.
+                            </p>
+                  </div>
+            </div>
+
+
+
+
+
+  </body>
+</html>
